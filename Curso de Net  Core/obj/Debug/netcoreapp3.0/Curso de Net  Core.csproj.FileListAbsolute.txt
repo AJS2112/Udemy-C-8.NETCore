@@ -1,0 +1,11 @@
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.exe
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.deps.json
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.runtimeconfig.json
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.runtimeconfig.dev.json
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.dll
+D:\repos\Curso de Net  Core\Curso de Net  Core\bin\Debug\netcoreapp3.0\Curso de Net  Core.pdb
+D:\repos\Curso de Net  Core\Curso de Net  Core\obj\Debug\netcoreapp3.0\Curso de Net  Core.csprojAssemblyReference.cache
+D:\repos\Curso de Net  Core\Curso de Net  Core\obj\Debug\netcoreapp3.0\Curso de Net  Core.AssemblyInfoInputs.cache
+D:\repos\Curso de Net  Core\Curso de Net  Core\obj\Debug\netcoreapp3.0\Curso de Net  Core.AssemblyInfo.cs
+D:\repos\Curso de Net  Core\Curso de Net  Core\obj\Debug\netcoreapp3.0\Curso de Net  Core.dll
+D:\repos\Curso de Net  Core\Curso de Net  Core\obj\Debug\netcoreapp3.0\Curso de Net  Core.pdb
